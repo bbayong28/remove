@@ -3,10 +3,17 @@ html{
 }
 
 body{
-  width: 50%;
+  width: 60%;
   max-width: 800px;
-  min-width: 480px;
+  min-width: 380px;
   margin: 0 auto;
+}
+
+h1{
+  font-size: 50px;
+}
+p{
+  font-size: 19px;
 }
 
 .form input[type='number']{
