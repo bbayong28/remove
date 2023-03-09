@@ -178,3 +178,12 @@ li{
     text-align: center;
 }
 
+#quote{
+    text-align: center;
+}
+
+#quote .text{
+    margin-bottom: 10px;
+    font-size: 19px;
+}
+
